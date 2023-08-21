@@ -533,7 +533,7 @@ body._lock {
 }
 
 .services__title {
-  max-width: 250px;
+  max-width: 246px;
   margin-bottom: 50px;
 }
 
@@ -794,7 +794,7 @@ body._lock {
 
 .clients__title {
   margin-bottom: 44px;
-  max-width: 144px;
+  max-width: 150px;
 }
 
 .clients__images {
